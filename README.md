@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Noor-Qashier
-- 👀 I’m interested in Programming. Like hacking and innovate.
+- 👀 I’m interested in Programming. Like hacking and innovation.
 - 🌱 I’m currently learning Phyton.
 
 <!---
